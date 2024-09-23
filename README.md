@@ -28,7 +28,7 @@ Mogakwe Kevin(https://www.linkedin.com/pulse/my-first-devo-2d-maze-game-using-ra
 To set up the project locally, follow these steps:
 1.Ensure you have the SDL2 library installed on your system.
 2.Clone this repository:
-3.git clone https://github.com/Ndivhuwo26/maze-game.git
+3.git clone https://github.com/Ndivhuwo26/The-Maze.git
 4.cd maze-game
 5.Compile the game:
 6.gcc main.c functions.c -o maze_game -lSDL2 -lm
