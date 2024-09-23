@@ -62,6 +62,10 @@ Include at least one valid path through the maze
 
 #Example: map_with_enemies.txt
 
+
+![map](https://github.com/user-attachments/assets/8115908a-d6ea-470b-b404-ff0920207ea5)
+
+
 1111111111
 1000000201
 1011101011
